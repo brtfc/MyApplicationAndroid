@@ -34,7 +34,8 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
+    
+    //create an intent within the secondScreen method to fetch the new screen
     public void secondScreen(){
         Intent intent = new Intent(this, DisplaySecondScreen.class);
         startActivity(intent);
