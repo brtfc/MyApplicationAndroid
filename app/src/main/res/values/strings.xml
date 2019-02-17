@@ -2,4 +2,12 @@
     <string name="app_name">My Application</string>
     <string name="switch_cat">Switch Cat</string>
     <string name="female_cat_description">An image of a female cartoon cat</string>
+    <string name="next_screen">Next Screen</string>
+    <string name="title_activity_display_second_screen">SecondScreen</string>
+    <string name="noemorph_description">The Neomorph was an endoparasitoid extraterrestrial species encountered by the crew of the
+                                USCSS Covenant. While they share some characteristics with the Xenomorph XX121, most notably their
+                                process of gestating inside a living host organism and their elongated heads, they are otherwise
+                                quite different. Two of the creatures were encountered by the crew of the Covenant after landing on
+                                the planet where David conducted his biological experiments.</string>
+    <string name="neomorph_description">a picture of a n alien in the Alien Covenant franchise</string>
 </resources>
